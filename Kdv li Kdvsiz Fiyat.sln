@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kdv li Kdvsiz Fiyat", "Kdv li Kdvsiz Fiyat\Kdv li Kdvsiz Fiyat.csproj", "{52B80F69-9FF0-4E23-B96F-24C5D355CBFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B80F69-9FF0-4E23-B96F-24C5D355CBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B80F69-9FF0-4E23-B96F-24C5D355CBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B80F69-9FF0-4E23-B96F-24C5D355CBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B80F69-9FF0-4E23-B96F-24C5D355CBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {149C6A7C-C1D7-450C-81FF-825CD23F1AEB}
+	EndGlobalSection
+EndGlobal
